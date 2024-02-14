@@ -60,7 +60,7 @@
 
 <div align="center">
   <figure>
-    <img src="https://github.com/borjagq/HandyVariations/blob/main/HandyVariations/resources/example.png?raw=true" alt="Generated image example" width="256">
+    <img src="https://github.com/borjagq/HandyVariations/blob/main/HandyVariations/resources/example.jpg?raw=true" alt="Generated image example" width="256">
     <figcaption>Generated image example</figcaption>
 </figure>
 </div>
